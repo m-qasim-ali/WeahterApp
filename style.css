@@ -209,7 +209,7 @@ body {
   display: none !important;
 }
 
-.active {
+.active{
   background-color: var(--primary);
   color: var(--secondary);
 }
