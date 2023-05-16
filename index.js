@@ -2,7 +2,7 @@
 const lightTheme = {
   primary: '#0f172a',
   secondary: '#ffffff',
-  tertiary: '#f8fafc',
+  tertiary: '#f8f8f8',
   accent: '#64748b',
 };
 
